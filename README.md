@@ -23,7 +23,6 @@ The objective of this project is to perform Exploratory Data Analysis (EDA) on t
 ## 📂 Files
 - `task4.ipynb` – Complete EDA and analysis.
 - `Online Retail.xlsx` – Original dataset.
-- `cleaned_online_retail.csv` – Cleaned dataset used for analysis.
 - `README.md` – Project documentation.
 
 ## 📊 Key Analysis
