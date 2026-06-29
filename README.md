@@ -1,35 +1,43 @@
-📌 Task Overview
+# SCT_DA_04 - Exploratory Data Analysis on Online Retail Dataset
 
+## 📌 Overview
 This repository contains my submission for Task 04 of the SkillCraft Technology Data Analyst Internship.
 
-The objective of this task was to perform Exploratory Data Analysis (EDA) on the Online Retail dataset to uncover meaningful insights, identify trends, and understand customer purchasing behavior.
+The objective of this project is to perform Exploratory Data Analysis (EDA) on the Online Retail dataset to uncover meaningful business insights through data cleaning, visualization, and statistical analysis.
 
-📊 Project Objectives
-Clean and preprocess the dataset.
-Handle missing values and duplicates.
-Perform exploratory data analysis.
-Identify sales patterns and customer behavior.
-Visualize key insights using charts and graphs.
-🛠️ Tools & Libraries
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
-📂 Repository Contents
-SCT_DA_04.ipynb
-Online Retail.xlsx
-README.md
-Visualizations (if included)
-📈 Key Insights
-Explored transaction and sales trends.
-Analyzed customer purchasing patterns.
-Identified top-selling products.
-Generated insights to support business decision-making.
-🎯 Skills Gained
-Data Cleaning
-Exploratory Data Analysis (EDA)
-Data Visualization
-Python for Data Analysis
-Business Insight Generation
+## 🎯 Objectives
+- Clean and preprocess the dataset.
+- Handle missing values and duplicate records.
+- Explore customer purchasing behavior.
+- Analyze sales patterns and product performance.
+- Generate business insights using data visualization.
+
+## 🛠️ Tools & Libraries
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## 📂 Files
+- `task4.ipynb` – Jupyter Notebook containing the complete analysis.
+- `Online Retail.xlsx` – Dataset used for the analysis.
+- `README.md` – Project documentation.
+
+## 📊 Key Analysis
+- Data Cleaning & Preprocessing
+- Sales Trend Analysis
+- Customer Purchase Analysis
+- Product Performance Analysis
+- Business Insights & Recommendations
+
+## 📈 Skills Demonstrated
+- Exploratory Data Analysis (EDA)
+- Data Cleaning
+- Data Visualization
+- Business Analytics
+- Python for Data Analysis
+
+## 🚀 Conclusion
+This project demonstrates how Exploratory Data Analysis (EDA) can be used to identify trends, understand customer behavior, and generate actionable business insights from retail transaction data.
